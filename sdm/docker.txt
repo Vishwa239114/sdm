@@ -5,21 +5,25 @@
 -sudo apt install docker.io
 
 -sudo docker images
-
+----
 -git clone "Repository link"
 
--ls -> cd rep-> 
+-ls 
 
--ls -> cd data
+-cd clonefile name
 
--ls(mv products_data.json products.json)
+-mv old name new name
 
--cd ..
+-docker -v
 
--sudo docker build -t "dockerfile" .
+-sudo apt install docker.io
 
--sudo docker iamges
+-y
 
+-sudo docker build -t iaacsd .
+
+-sudo docker run -d -p 8000:8000 iacsd
+------
 -sudo docker run --name gopal -d -p 8085:8000 dockerfile
 
 -sudo docker ps
