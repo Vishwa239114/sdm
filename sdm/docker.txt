@@ -1,11 +1,11 @@
 -Launch instance -> do all setting
 
--sudo apt update
-
 -sudo apt install docker.io
 
 -sudo docker images
 ----
+-sudo apt update
+
 -git clone "Repository link"
 
 -ls 
