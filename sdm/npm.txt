@@ -1,0 +1,36 @@
+nodejs through
+
+
+
+-Launch an instance
+
+- security -> security group-> edit inBound rules
+
+ -> add rule ->all traffic and anywhere ipv4 -> save rule
+    
+
+-click on running instances -> connect -> connect
+
+-sudo apt update 
+
+-git clone "link of repo"
+
+-ls (stltflstore)
+
+-ls
+
+-data -> cd data
+
+-mv to chnage namee
+
+-cd ..
+
+-sudo apt update -> sudo apt install npm -> y -> tab+enter
+
+-npm install
+
+-npm start
+
+copy public ip and paste
+
+

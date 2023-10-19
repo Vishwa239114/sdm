@@ -1,0 +1,31 @@
+-Launch instance -> do all setting
+
+-sudo apt update
+
+-sudo apt install docker.io
+
+-sudo docker images
+
+-git clone "Repository link"
+
+-ls -> cd rep-> 
+
+-ls -> cd data
+
+-ls(mv products_data.json products.json)
+
+-cd ..
+
+-sudo docker build -t "dockerfile" .
+
+-sudo docker iamges
+
+-sudo docker run --name gopal -d -p 8085:8000 dockerfile
+
+-sudo docker ps
+
+run by public ip
+
+
+
+

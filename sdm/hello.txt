@@ -1,0 +1,3 @@
+this is first file i am uploading git repo
+successfuly pushed thr file into th repo
+now i am trying out git pull
